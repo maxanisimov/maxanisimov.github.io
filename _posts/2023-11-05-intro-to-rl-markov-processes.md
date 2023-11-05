@@ -1,16 +1,12 @@
 ---
-title: 'Blog Post number 5'
+title: 'Introduction to Reinforcment Learning: Markov Process'
 date: 2023-11-05
-permalink: /posts/2023/11/blog-post-5/
+permalink: /posts/2023/11/intro-to-rl/markov-process
 tags:
-  - cool posts
-  - category1
-  - category2
+  - AI
+  - Reinforcement Learning
+  - Markov Process
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-A bit of math: $P(S) = 1/3$.
 
 One of the core concepts of basic reinforcement learning are a Markov Process and a Markov Reward Process.
 
