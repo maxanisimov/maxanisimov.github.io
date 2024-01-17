@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Max Anisimov"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate at Imperial College London"
   location         : "London, UK"
-  employer         : "Imperial College London"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : # "Imperial College London"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yX-xyM4AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Maksim-Anisimov-2"
   uri              :
   bitbucket        :
   codepen          :
