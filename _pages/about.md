@@ -14,7 +14,7 @@ Prior to my doctorate studies, I spent 2.5 years as a data scientist at [causaLe
 
 I earned my MSc in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en) and BSc (Hons) at [Higher School of Economics](https://www.hse.ru/en/), majoring in Mathematical Economics and minoring in Data Science & Machine Learning. 
 
-I hold a UK Global Talent visa as an emerging leader in AI & ML. I have also received multiple academic merit-based scholarships during my academic studies, including full scholarship for my PhD project and Holland Scholarship for excellent students from outside of the EEA.
+I hold a UK Global Talent visa as an emerging leader in AI & ML. I have received multiple academic merit-based scholarships, including full funding for my PhD project and the Holland Scholarship for excellent students from outside of the EEA.
 
 A data-driven personal website
 ======
