@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate in Artificial Intelligence at [Imperial College London](https://www.imperial.ac.uk/), and my current research focus is on safety, robustness and explainability of reinforcement learning systems. Besides, I am interested in causality, statistics and systematic investing. At Imperial, I am one of the organisers of the [Imperial College Autonomous Reasoning & Learning (ICARL) group](https://icarl.doc.ic.ac.uk/home), where we discuss all things reinforcement learning.
+Welcome! I am a PhD Candidate in Artificial Intelligence at [Imperial College London](https://www.imperial.ac.uk/), and my current research focus is on safety, robustness and explainability of reinforcement learning systems. Besides, I am interested in causality, statistics and systematic investing. At Imperial, I am one of the organisers of the [Imperial College Autonomous Reasoning & Learning (ICARL)](https://icarl.doc.ic.ac.uk/home) group, where we discuss all things reinforcement learning.
 
 Prior to my doctorate studies, I spent 2.5 years as a data scientist at [causaLens](https://causalens.com/) -- that experience inspired me to do academic research on trusted AI systems. Also, I spent 1.5 years working as a quant in asset management in the Netherlands and in London.
 
