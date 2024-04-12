@@ -111,12 +111,3 @@ mrp = MarkovRewardProcess(
 mrp_value_function = mrp.calculate_value_function(convert_to_series=True)
 
 ```
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
