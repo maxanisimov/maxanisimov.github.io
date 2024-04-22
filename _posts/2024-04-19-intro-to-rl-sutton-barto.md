@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Reinforcment Learning'
-date: 2023-11-05
+date: 2024-04-22
 permalink: /posts/2024/04/intro-to-rl/intro
 tags:
   - AI
