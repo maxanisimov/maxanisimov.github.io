@@ -100,14 +100,33 @@ The artificial neural network (ANN) provides the program with the ability to gen
 ### Model-free vs model based RL
 Because models of the environment have to be reasonably accurate to be useful, model free methods can have advantages over more complex methods when the real bottleneck in solving a problem is the difficulty of constructing a sufficiently accurate environment model. Model-free methods are also important building blocks for model-based methods. 
 
-*Exercises*
+### *Exercises*
 
-TODO
+*Exercise 1.1: Self-Play* Suppose, instead of playing against a random opponent, the reinforcement learning algorithm described above played against itself, with both sides learning. What do you think would happen in this case? Would it learn a different policy for selecting moves?
+
+*Exercise 1.2: Symmetries* Many tic-tac-toe positions appear di↵erent but are really the same because of symmetries. How might we amend the learning process described above to take advantage of this? In what ways would this change improve the learning process? Now think again. Suppose the opponent did not take advantage of symmetries. In that case, should we? Is it true, then, that symmetrically equivalent positions should necessarily have the same value?
+
+*Exercise 1.3: Greedy Play* Suppose the reinforcement learning player was greedy, that is, it always played the move that brought it to the position that it rated the best. Might it learn to play better, or worse, than a nongreedy player? What problems might occur?
+
+
+*Exercise 1.4: Learning from Exploration* Suppose learning updates occurred after all moves, including exploratory moves. If the step-size parameter is appropriately reduced over time (but not the tendency to explore), then the state values would converge to a di↵erent set of probabilities. What (conceptually) are the two sets of probabilities computed when we do, and when we do not, learn from exploratory moves? Assuming that we do continue to make exploratory moves, which set of probabilities might be better to learn? Which would result in more wins?
+
+*Exercise 1.5: Other Improvements* Can you think of other ways to improve the reinforce- ment learning player? Can you think of any better way to solve the tic-tac-toe problem as posed?
 
 
 
 ## 1.6 Summary
-TODO
+Reinforcement learning is a computational approach to understanding and automating goal-directed learning and decision making. It is distinguished from other computational approaches by its emphasis on learning by an agent from direct interaction with its environment, without requiring exemplary supervision or complete models of the environment.
+
+RL uses the formal framework of Markov decision processes to define the interaction between a learning agent and its environment in terms of states, actions, and rewards. This framework is intended to be a simple way of representing essential features of the AI problem. including **cause and effect**, a sense of uncertainty and nondeterminism, and the existence of explicit goals.
+
+The concepts of value and value function are key to the most RL methods considered in this book. The authors take the position that value functions are important for efficient search in the space of policies. The use of value functions distinguishes RL methods from evolutionary methods that search directly in policy space guided by evaluations of entire policies.
+
 
 ## 1.7 Histroy of Reinforcement Learning
-TODO
+Two main threads that were pursued independently before interwining in modern RL:
+1. Learning by trial and error, originating in the psychology of animal learning
+2. Optimal control, using value functions and dynamic programming (mostly no relation to learning!)
+
+Third, less distinct thread: temporal-difference methods. All three threads came together in the late 1980s to produce the modern field of RL as it is presented in this book.
+
