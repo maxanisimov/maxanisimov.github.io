@@ -102,7 +102,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_12_0.png)
+![png](chapter2-multi-armed-bandits/output_12_0.png)
     
 
 
@@ -480,7 +480,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_19_1.png)
+![png](chapter2-multi-armed-bandits/output_19_1.png)
     
 
 
@@ -532,7 +532,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_22_1.png)
+![png](chapter2-multi-armed-bandits/output_22_1.png)
     
 
 
@@ -944,7 +944,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_36_1.png)
+![png](chapter2-multi-armed-bandits/output_36_1.png)
     
 
 
@@ -977,7 +977,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_37_1.png)
+![png](chapter2-multi-armed-bandits/output_37_1.png)
     
 
 
@@ -1078,7 +1078,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_40_1.png)
+![png](chapter2-multi-armed-bandits/output_40_1.png)
     
 
 
@@ -1109,7 +1109,7 @@ plt.tight_layout();
 
 
     
-![png](./images/chapter2-multi-armed-bandits/output_41_1.png)
+![png](chapter2-multi-armed-bandits/output_41_1.png)
     
 
 
