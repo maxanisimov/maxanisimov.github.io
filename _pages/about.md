@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate in Artificial Intelligence at [Imperial College London](https://www.imperial.ac.uk/). My research is focused on improving robustness and generalisation in (deep) reinforcement learning. I like using the laguage of probabilty theory, statistics and causality to work on this problem. Besides, I am interested in systematic investing and ML applications in finance. 
+Welcome! I am a PhD Candidate in Artificial Intelligence at [Imperial College London](https://www.imperial.ac.uk/). My research is focused on improving robustness and generalisation in (deep) reinforcement learning. I like using the language of probabilty theory, statistics and causality to work on this problem. Besides, I am interested in systematic investing and ML applications in finance. 
 
 At Imperial, I am one of the organisers of the [Imperial College Autonomous Reasoning & Learning (ICARL)](https://icarl.doc.ic.ac.uk/home) group, where we discuss all things reinforcement learning. I am also a part of the [Centre for Doctoral Training in Safe & Trusted AI](https://safeandtrustedai.org/) and the [Causal Incentives Working Group](https://causalincentives.com/) led by Tom Everitt (Google DeepMind).
 
