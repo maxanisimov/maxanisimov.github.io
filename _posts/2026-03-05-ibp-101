@@ -1,4 +1,14 @@
-Interval Bound Propagation (IBP) 101
+---
+title: 'Interval Bound Propagation 101'
+date: 2026-03-05
+permalink: /posts/2023/11/formal-methods/ibp
+tags:
+  - AI
+  - Deep Learning
+  - Reinforcement Learning
+  - Formal Methods
+---
+
 
 The purpose of this post is to explain the basics of the Interval Bound Propagation (IBP) method. It is powerful tool which allows to provide *guarantees* about output ranges of a neural network. I mostly follow the notation from deep reinforcement learning (RL), therefore the typical neural network for which I want to compute bounds is a neural policy.
 
