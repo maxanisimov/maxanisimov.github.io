@@ -1,4 +1,12 @@
-# Incremental learning in the context of RL
+---
+title: 'Incremental Reinforcement Learning'
+date: 2026-03-04
+permalink: /posts/2026/03/continual-learning/incremental-learning
+tags:
+  - AI
+  - Reinforcement Learning
+  - Continual Learning
+---
 
 From https://www.nature.com/articles/s42256-022-00568-3 (which is for supervised learning)
 
