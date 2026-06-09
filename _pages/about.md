@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate in Artificial Intelligence at [Imperial College London](https://www.imperial.ac.uk/). My research is focused on improving robustness and generalisation in deep reinforcement learning. I am currently working on two questions:
-1. *Policy-aware world models for AI safety evaluation*: Can we efficiently use knowledge about a deployment policy to learn a world model that would accurately predict safety of an agent’s behaviour?
-2. *Safe neural policy updates in continual learning*: Can we update a neural policy to a new task while preserving its safety/robustness guarantees in prior tasks?
+Welcome! I am a PhD Candidate in Artificial Intelligence at [Imperial College London](https://www.imperial.ac.uk/), where I work on reliability and robustness of deep reinforcement learning systems. My current research focuses on two questions:
 
-Besides, I am interested in ML and stats applications in quantitative finance. Currently, I am doing a PhD internship at [Cubist Systematic Strategies (Point72)](https://point72.com/cubist/) in London working on ML research for systematic global macro.
+1. *Safe neural policy updates*: Can we update a neural policy while preserving its safety properties?
+2. *Provable mitigation of catastrophic forgetting*: In continual reinforcement learning, can we guarantee that a neural policy does not forget behaviour learned on previous tasks?
 
-At Imperial, I am one of the organisers of the [Imperial College Autonomous Reasoning & Learning (ICARL)](https://icarl.doc.ic.ac.uk/home) group, helping manage research seminars and reading groups. I am also a part of the [Centre for Doctoral Training in Safe & Trusted AI](https://safeandtrustedai.org/).
+At Imperial, I am part of the [Centre for Doctoral Training in Safe & Trusted AI](https://safeandtrustedai.org/) and the [Formal Methods in AI Lab](https://fmailab.doc.ic.ac.uk/). I am also one of the organisers of the [Imperial College Autonomous Reasoning & Learning group](https://icarl.doc.ic.ac.uk/home), where I help coordinate research seminars and reading groups.
 
-Prior to my doctorate studies, I spent 2.5 years as a data scientist at [causaLens](https://causalens.com/) and worked as a quant in asset management in London and the Netherlands for 1.5 years. I earned my MSc in Econometrics at [Erasmus University Rotterdam](https://www.eur.nl/en) and BSc (Hons) at [Higher School of Economics](https://www.hse.ru/en/), majoring in Mathematical Economics and minoring in Data Science & Machine Learning. 
+During my PhD, I completed a quantitative research internship at [Cubist Systematic Strategies, Point72](https://point72.com/cubist/). Before starting my doctorate, I spent two and a half years as a data scientist at [causaLens](https://causalens.com/) and worked in quantitative roles in asset management in London and the Netherlands.
 
-I hold a UK Global Talent visa as an emerging leader in AI & ML. I have received multiple academic merit-based scholarships, including full funding for my PhD and the Holland Scholarship for excellent incoming master's students from outside of the EEA.
+I hold an MSc in Econometrics from [Erasmus University Rotterdam](https://www.eur.nl/en) and a BSc with Honours from the [Higher School of Economics](https://www.hse.ru/en/), where I majored in Mathematical Economics and minored in Data Science and Machine Learning.
+
+I was awarded a UK Global Talent visa as an emerging leader in AI and machine learning. I have also received several merit-based academic scholarships, including full funding for my PhD and the Holland Scholarship for outstanding incoming master’s students from outside the EEA.
+
